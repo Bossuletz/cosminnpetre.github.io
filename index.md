@@ -5,7 +5,7 @@ MY NAME IS COSMIN.
 I'm a Software Engineer and Computer Science Student.
 
 
-![Image](https://github.com/cosminnpetre/cosminnpetre.github.io/blob/master/profile.jpg)
+![Image](https://raw.githubusercontent.com/cosminnpetre/cosminnpetre.github.io/master/profile.jpg)
 
 
 ### ABOUT ME
